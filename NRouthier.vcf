@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Papineau;Pier-Luc;;;
-FN:Pier-Luc Papineau
+N:Routhier;Nicholas;;;
+FN:Nicholas Routhier
 ORG:Metric Empire Inc.;
-TITLE:Co-Founder & Design Director
-EMAIL;type=INTERNET;type=WORK;type=pref:pier-luc@metricempire.com
-TEL;type=WORK;type=VOICE:+1 (514) 974-0454
+TITLE:Co-Founder & Technical Director
+EMAIL;type=INTERNET;type=WORK;type=pref:nick@metricempire.com
+TEL;type=WORK;type=VOICE:+1 (514) 649-4151
 item1.ADR;type=WORK;type=pref:;;5789 Avenue des Erables, Montreal, QC;;;H2G 2M2;Canada
 item1.X-ABADR:sg
 item2.URL;type=pref:metricempire.com
